@@ -7,5 +7,6 @@ public class ShowColors2 {
    public static void main(String[] args)  {
       ShowColors2JFrame application = new ShowColors2JFrame();
       application.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
+      System.out.println("Ultimo cambio")
    } 
 } // end class ShowColors2
